@@ -1,4 +1,5 @@
-Hello All  Morning today is Sunday.
-Today the weather is sunny .
+Hello All  Morning today is Monday.
+Yesterday the weather was sunny .
 Now its raining.
 My name is Adrija
+
